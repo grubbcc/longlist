@@ -32,19 +32,21 @@ As a proof of concept, the letter A of the proposed word list has been completed
 | 13|   |  870|  554|
 | 14|   |  596|  364|
 | 15|   |  375|  221|
-| 16| 485|*221*|*109*|
-| 17| 457|*111*| *56*|
-| 18| 349| *56*| *23*|
-| 19| 249| *29*| *15*|
+| 16| 485|*218*|*110*|
+| 17| 457|*112*| *55*|
+| 18| 349| *58*| *23*|
+| 19| 249| *30*| *15*|
 | 20| 186| *20*| *12*|
 | 21| 120| *10*|  *7*|
-|>15|1846|*447*|*222*|
+|>15|1846|*448*|*222*|
 
-As of 10/22/23, the first draft of the CSW lexicon is complete up to CYTOPATHOLOGISTS and the first draft of the NWL lexicon is complete up to HEPATOTOXICITIES.
+As of 10/27/23, the first draft of the proposed extensions of both lexicons is completed up to NONSUPERIMPOSABLE.
 
 ### Other considerations
 Since the Collins English Dictionary and the Merriam-Webster Collegiate Dictionary are continuously updated, they will contain some words, such as neologisms, that are missing from the WJ2. Such words, if discovered, should also be included in the present word list. Other word lists may be useful for cross-referencing with the APIs.
 
 For consistency, the 16-21 word lists should be checked to make sure that they do not contain inflections of root words that are not present in the standard Scrabble lists.
 
-The Collins API and the Merriam-Webster API both produce occasional false positives. To my knowledge this only occurs when a word in the Word Judge list appears in one of the source dictionaries, but only with the inclusion of a hyphen or space. For example ALPHAFETOPROTEIN appears as a valid word according to the Collins API, but upon consulting the collinsdictionary.com website we find it only listed as ALPHA-FETOPROTEIN (with a hyphen). It has accordingly been omitted.
+The Collins API and the Merriam-Webster API both produce occasional false positives. To my knowledge this only occurs when a word in the Word Judge list appears in one of the source dictionaries, but only with the inclusion of a hyphen or space. For example ALPHAFETOPROTEIN appears as a valid word according to the Collins API, but upon consulting collinsdictionary.com, we find it only listed as ALPHA-FETOPROTEIN (with a hyphen). It has accordingly been omitted.
+
+Evidently the compilers of CSW made a conscious decision that there should be a one-to-one correspondence between terms ending in -IZATION and -ISATION (the only exceptions are IMPROVISATION AND IRISATION). To maintain consistency, therefore, I will continue this pattern—even if one of the forms is not contained within the source dictionary.
