@@ -24,7 +24,7 @@ As with the official CSW list of words 2-15 letters in length, the CSW 16-21 lis
 To date, only the Merriam-Webster Collegiate Dictionary is the only NWL source dictionary that has been used for the construction of the NWL 16-21 list. Fortunately this is probably the most comprehensive of the source dictionaries as well as the most frequently updated. Moreover, it has an [easy-to-use API](https://dictionaryapi.com/) that does not appear to suffer from the problems of inflections described in the CSW section. It is believed that the WJ2 combined with this single API can give an approximate extension of the NWL list up to 21 letters that is reasonably consistent with the official list. Two other source dictionaries, the _Oxford College Dictionary_ and the _Canadian Oxford Dictionary_ appear to have APIs, but it is unknown whether they can be accessed without an expensive commercial license or academic clearance. Anyone who has a physical or electronic copy of a source dictionary lacking such an API is encouraged to contribute words the the NWL list by hand.
 
 ### Progress
-As a proof of concept, the letter A of the proposed word list has been completed according to the above methodology. The CSW and NWL 16-21 word lists contain 447 and 222 words starting with A, respectively, as shown in in the table below. In each list, about half of these have precisely 16 letters, and with each additional letter the number of words drops by about 50%. Comparing these data with the number of 13-, 14-, and 15-letter words in the official CSW and NWL word lists, we see that there is a consistent exponential decline. This suggests that the procedure results in a compatible extension of the lexicons and should be continued.
+As a proof of concept, the letter A of the proposed word list has been completed according to the above methodology. The CSW and NWL 16-21 word lists contain 444 and 207 words starting with A, respectively, as shown in in the table below. In each list, about half of these have precisely 16 letters, and with each additional letter the number of words drops by about 50%. Comparing these data with the number of 13-, 14-, and 15-letter words in the official CSW and NWL word lists, we see that there is a consistent exponential decline. This suggests that the procedure results in a compatible extension of the lexicons and should be continued.
 
 #### Words beginning with the letter A by lexicon
 | Word length | WJ2 |  CSW  | NWL  |
@@ -32,15 +32,15 @@ As a proof of concept, the letter A of the proposed word list has been completed
 | 13|   |  870|  554|
 | 14|   |  596|  364|
 | 15|   |  375|  221|
-| 16| 485|*218*|*110*|
-| 17| 457|*112*| *55*|
-| 18| 349| *58*| *23*|
-| 19| 249| *30*| *15*|
-| 20| 186| *20*| *12*|
+| 16| 485|*214*|*101*|
+| 17| 457|*113*| *54*|
+| 18| 349| *57*| *21*|
+| 19| 249| *31*| *13*|
+| 20| 186| *19*| *11*|
 | 21| 120| *10*|  *7*|
-|>15|1846|*448*|*222*|
+|>15|1846|*444*|*207*|
 
-As of 10/27/23, the first draft of the proposed extensions of both lexicons is completed up to NONSUPERIMPOSABLE.
+As of 10/29/23, the first draft of the proposed extensions of both lexicons is completed up to PRENOTIFICATIONS.
 
 ### Other considerations
 Since the Collins English Dictionary and the Merriam-Webster Collegiate Dictionary are continuously updated, they will contain some words, such as neologisms, that are missing from the WJ2. Such words, if discovered, should also be included in the present word list. Other word lists may be useful for cross-referencing with the APIs.
