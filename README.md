@@ -40,8 +40,6 @@ As a proof of concept, the letter A of the proposed word list has been completed
 | 21| 120| *10*|  *7*|
 |>15|1846|*444*|*207*|
 
-As of 10/29/23, the first draft of the proposed extensions of both lexicons is completed up to PRENOTIFICATIONS.
-
 ### Other considerations
 Since the Collins English Dictionary and the Merriam-Webster Collegiate Dictionary are continuously updated, they will contain some words, such as neologisms, that are missing from the WJ2. Such words, if discovered, should also be included in the present word list. Other word lists may be useful for cross-referencing with the APIs.
 
